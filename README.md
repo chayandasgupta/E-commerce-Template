@@ -17,5 +17,5 @@
   <li><a href="#" rel="nofollow">Js</a></li>
 </ul>
 
-<h2><Copyright and license</h2>
+<h2><Copyright and License</h2>
 <p>Copyright 2021 . Code released under the <a href="https://github.com/chayandasgupta/E-commerce-Template/edit/main/LICENSE">MIT License</a>.</p>
